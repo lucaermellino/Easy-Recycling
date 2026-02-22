@@ -10,14 +10,6 @@ L'obiettivo è progettare un'app mobile **iOS** capace di aiutare gli utenti a *
 - Design e prototipizzazione dell'interfaccia di un'app mobile (iOS).
 - Needfinding, analisi dei need e task, realizzazione di storyboards, realizzazione e testing di prototipi cartacei e poi digitali ad alta fedeltà.
 
-## Collaborazione
-
-Il progetto è stato realizzato in collaborazione con tre colleghi:
-
-- `siragonn`
-- `FrancescoContinella`
-- `LDLSap`
-
 ## Attività svolte
 
 1. Ricerca utenti tramite interviste e questionario.
