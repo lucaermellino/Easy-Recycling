@@ -5,6 +5,8 @@
 **Easy Recycling** è un progetto realizzato per l'esame di **Interazione Uomo-Macchina**.  
 L'obiettivo è progettare un'app mobile **iOS** capace di aiutare gli utenti a **riparare**, **riutilizzare** e **dare una seconda vita** agli oggetti, riducendo sprechi e abbandono.
 
+![Third High Fidelity](readme_assets/third-high-fidelity.png)
+
 ## Cosa comprende il progetto
 
 - Design e prototipizzazione dell'interfaccia di un'app mobile (iOS).
